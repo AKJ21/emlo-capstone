@@ -156,10 +156,7 @@ k apply -f deployment.yaml
 
 ## Result Videos
 - <a href="images/Query1_Search.mp4" target="_blank">Query 1</a>
-<video src='images/Query1_Search.mp4' width=500/>
-
 - <a href="images/Query2_Image_generate.mp4" target="_blank">Query 2</a>
-<video src='images/Query2_Image_generate.mp4' width=500/>
 
 ## Group Members
 - Aman Jaipuria
